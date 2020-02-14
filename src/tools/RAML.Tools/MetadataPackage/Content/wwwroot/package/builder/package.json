@@ -15,7 +15,7 @@
     "@anypoint-web-components/anypoint-styles": "^1.0.1",
     "@anypoint-web-components/api-console": "^6.0.0-preview.34",
     "@open-wc/building-rollup": "0.14.8",
-    "@open-wc/building-utils": "2.8.1",
+    "@open-wc/building-utils": "2.14.2",
     "es-dev-server": "^1.26.2",
     "fs-extra": "^8.1.0",
     "parse5": "^5.1.1",
