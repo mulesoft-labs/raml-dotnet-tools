@@ -16,8 +16,8 @@
   },
   "homepage": "https://www.mulesoft.org/jira/browse/APIC",
   "devDependencies": {
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-prettier": "^3.1.1"
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-prettier": "3.1.2"
   },
   "dependencies": {
     "rollup-plugin-cpy": "^2.0.1"
