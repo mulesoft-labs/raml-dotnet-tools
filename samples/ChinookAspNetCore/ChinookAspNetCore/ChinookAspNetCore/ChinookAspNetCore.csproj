@@ -12,7 +12,7 @@
   <ItemGroup>
     <PackageReference Include="AMF.NetCore.APICore" Version="0.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
