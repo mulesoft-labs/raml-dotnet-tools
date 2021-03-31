@@ -14,7 +14,7 @@
     "@advanced-rest-client/xhr-simple-request": "^3.0.0",
     "@anypoint-web-components/anypoint-styles": "^1.0.1",
     "@open-wc/building-rollup": "0.14.8",
-    "@open-wc/building-utils": "2.8.1",
+    "@open-wc/building-utils": "2.18.4",
     "api-console": "^6.0.2",
     "es-dev-server": "^1.26.2",
     "fs-extra": "^8.1.0",
