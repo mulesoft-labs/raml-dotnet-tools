@@ -31,7 +31,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.ApiExplorer" Version="1.0.3" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="1.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="1.0.4" />
     <PackageReference Include="RAML.NetCore.APICore" Version="0.2.0" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.1.0" />
   </ItemGroup>
